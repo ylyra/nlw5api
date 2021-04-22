@@ -1,0 +1,14 @@
+{
+  "name": "podcastrapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server server.json -w"
+  },
+  "author": "Yan Lyra",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
